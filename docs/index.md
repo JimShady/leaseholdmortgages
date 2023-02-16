@@ -8,9 +8,8 @@ The mortgage lending criteria of banks and building societies on affected proper
 
 This website attempts to shine a light on these criteria by crowd-sourcing case studies of successful and unsuccesful mortgage applications. The content may also be used in meetings between the EOCS team and the [Department for Levelling Up, Housing and Communities](https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities) as examples of lenders not fulfilling their pledges and promises. Therefore please help populate it with your own story! You can contribute in a number of ways:
 
-1. Edit the page via [GitHub](https://github.com/JimShady/leaseholdmortgages/edit/main/docs/index.md)
-2. Go to the [GitHub repository](https://github.com/JimShady/leaseholdmortgages) and submit a Pull Request with your proposed changes
-3. Send your info to me via [Twitter](https://twitter.com/TheRealJimShady).
+1. Send your info to me via [Twitter](https://twitter.com/TheRealJimShady).
+2. Use GitHub to edit the page and submit a pull request: [GitHub repository](https://github.com/JimShady/leaseholdmortgages)
 
 You can find out more about the wider situation via the [End Our Cladding Scandal](https://endourcladdingscandal.org) campaign website and their [Twitter account](https://twitter.com/EOCS_Official). 
 
