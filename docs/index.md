@@ -1,5 +1,6 @@
 _Crowd-sourcing lender attitudes to mortgages on leasehold properties with building safety issues_
--------------------------------
+
+--------------------------------------------------
 
 Quicklinks: [Barclays](https://jimshady.github.io/leaseholdmortgages/#barclays) / [Nationwide](https://jimshady.github.io/leaseholdmortgages/#nationwide) / [HSBC](https://jimshady.github.io/leaseholdmortgages/#hsbc) / [Lloyds](https://jimshady.github.io/leaseholdmortgages/#lloyds) / [Natwest](https://jimshady.github.io/leaseholdmortgages/#natwest) / [Skipton](https://jimshady.github.io/leaseholdmortgages/#skipton)
 
