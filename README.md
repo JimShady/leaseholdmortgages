@@ -46,4 +46,4 @@ Replace `your-branch-name` with the name of the branch you created earlier.
 ### 7. Submit a Pull Request
 Finally, navigate to the Leasehold Mortgages repository page in your web browser and click the "New pull request" button. Follow the prompts to submit a pull request from your forked repository to the original repository.
 
-That's it! Once your pull request is submitted, it will be reviewed by the repository owners and merged if approved. Thank you for contributing to the Leasehold Mortgages website.
+That's it! Once your pull request is submitted, it will be reviewed by the repository owner and merged if approved. Thank you for contributing to the Leasehold Mortgages website.
