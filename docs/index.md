@@ -1,6 +1,7 @@
 _Crowd-sourcing lender attitudes to mortgages on leasehold properties with building safety issues_
-
 -------------------------------
+
+Quicklinks: [Barclays](https://jimshady.github.io/leaseholdmortgages/#barclays) | [Nationwide](https://jimshady.github.io/leaseholdmortgages/#nationwide) | [HSBC](https://jimshady.github.io/leaseholdmortgages/#hsbc) | [Lloyds](https://jimshady.github.io/leaseholdmortgages/#lloyds) | [Natwest](https://jimshady.github.io/leaseholdmortgages/#natwest) | [Skipton](https://jimshady.github.io/leaseholdmortgages/#skipton)
 
 The building safety scandal has blighted the lives of tens of thousands of people’s lives in the UK over the last few years, particularly since 2019 when the Royal Institute of Chartered Surveyors (RICS) introduced the controversial EWS1 form.
 
