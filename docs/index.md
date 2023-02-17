@@ -22,6 +22,8 @@ Below you will now find case-studies grouped by lender. **There are currently no
 
 * Adam talked to Barclays in mid August 2022 and they said they haven’t updated/changed any policies lately. They need remedial works completing and then a new EWS1 doing before they will consider lending. However Barclays did allow Adam to change to a buy-to-let mortgage, on the basis of no additional borrowing / equity release and having to pay various extra fees. His building is covered by a developer pledge, although Barclays have never asked for proof of this. Work has not started on his building.
 
+* 'S' called Barclays on 16 February 2023 and was informed for her building (under 11m) that Barclays would need an EWS1 form.
+
 ## Nationwide
 
 * In October 2022 David had confirmation from his freeholder that remediation will start in 14 months, and end 8 months later, and that he will not be liable for any costs. Nationwide however refused his buyer a mortgage.
