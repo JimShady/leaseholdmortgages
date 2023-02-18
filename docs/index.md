@@ -37,6 +37,7 @@ Below you will now find case-studies grouped by lender. **There are currently no
 ## Lloyds
 
 * Lilli talked to Lloyds about the position in late August 2022, they said that they will lending in the following situations: 1. Proof of agreed funding from one of the government schemes (i.e. Building Safety Fund) alongside start and end dates for the work 2. Confirmation from the original developer of the building that they are completing the required remediation . Lilli interprets this as they will lend if you have proof of funding and proof that works are planned.
+* Anecdotally there are reports from a broker that flats between 11-18m are not being requested for EWS1 forms now.
 
 ## Natwest
 
