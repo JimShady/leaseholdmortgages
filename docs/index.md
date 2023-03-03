@@ -30,6 +30,16 @@ Below you will now find case-studies grouped by lender. **There are currently no
 
 * In October 2022 David had confirmation from his freeholder that remediation will start in 14 months, and end 8 months later, and that he will not be liable for any costs. Nationwide however refused his buyer a mortgage.
 
+## The Mortgage Works
+
+* As of March 2023 they are still insisting on an EWS1 forms, regardless of freeholder or leaseholder certificates and other documents.
+* AS of March 2023: Jess applied for a mortgage extension with mortgage works (Nationwide) last year and were refused as we had a failed EWS1 form. We needed the mortgage extension because works are not starting and we can’t sell and at the end of the mortgage term we will have to pay up or lose the flat. We had always intended to sell the property before term end but now we are stuck. We asked them again this year but they want to know when works will start and finish and a new EWS1 form. We cannot give them this as our freeholder is selling up and we have no clue if and when works will start. We so know an application has gone into the BSF but can’t progress until the managing agent supplies more info.
+
+## Halifax
+
+* Lee (writing in March 2023) needed to move, but couldn't sell, so did consent to let on his flat through Halifax. His fixed-rate mortgage has now come to an end but Halifax won't agree a new fix while it's on consent to let (but he also cannot sell it). Due to personal circumstances he can't move back there. So it's now on the 'standard variable' for the last two years.
+* John has no EWS1 form, but building is being remediated by freeholder, expected completion summer 2024. As of March 2023 still asking for EWS1 forms though so cannot mortgage with them.
+
 ## HSBC
 
 * Lilli spoke to HSBC in late August 2022, and they confirmed their policy still focuses on EWS1 forms. The advisor said that a (passing) EWS1 is required for flats with building safety defects.
@@ -38,10 +48,15 @@ Below you will now find case-studies grouped by lender. **There are currently no
 
 * Lilli talked to Lloyds about the position in late August 2022, they said that they will lending in the following situations: 1. Proof of agreed funding from one of the government schemes (i.e. Building Safety Fund) alongside start and end dates for the work 2. Confirmation from the original developer of the building that they are completing the required remediation . Lilli interprets this as they will lend if you have proof of funding and proof that works are planned.
 * Anecdotally there are reports from a broker that flats between 11-18m are not being requested for EWS1 forms now.
+* John has no EWS1 form, but building is being remediated by freeholder, expected completion summer 2024. As of March 2023 Lloyds do not seem to be requesting an EWS1 form anymore, but rates for flats are very high, so not an option
 
 ## Natwest
 
 * Lilli wrote to Natwest in August 2022, and they didn’t confirm anything either way. They said “The bank has no contractual relationship with yourself and no responsibility for any material loss you may or may not suffer – be it financial or trouble & strife. I am aware there is a situation in the UK affecting the cladding on possibly thousands of blocks of flats meaning, many people are not in a position to sell their flats and the bank is no way responsible for the blight on their properties.”. How nice.
+
+## Santander
+
+* John has no EWS1 form, but building is being remediated by freeholder, expected completion summer 2024. As of March 2023 do not seem to be requesting EWS1 forms anymore, but have tightened lending rules for flats so more equity required.
 
 ## Skipton
 
