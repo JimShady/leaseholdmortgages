@@ -80,6 +80,7 @@ Below you will now find case-studies grouped by lender. **There are currently no
 ## Santander
 
 * John has no EWS1 form, but building is being remediated by freeholder, expected completion summer 2024. As of March 2023 do not seem to be requesting EWS1 forms anymore, but have tightened lending rules for flats so more equity required.
+* Applied to remortgage in Cardiff with Santander in February 2023. Cladding remission 2/3 complete all covered by Bellway and developer pledge signed. Santander underwriter asked for 4 cladding questions on letterhead paper (cost me £120 and took 3 weeks and 16 emails). Legal officer at Ringley (managing agent) had no idea and was answering incorrectly which in turn would have resulted in the mortgage being denied immediately by Santander. I had to write to the Bellway CEO who responded with correct answers about cladding and Bellway commitment. The Santander nderwriter did then agree to the mortgage, but after nine days no offer had been issued. Santander said it was now with 'the valuers. Valuer asked if the assessments made were in line with PAS9980. We don't know, so have gone back to Belway to ask. However the assessment was done in January 2022 and work started in 2021 so perhaps not?
 
 ## Skipton
 
