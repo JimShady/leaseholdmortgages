@@ -46,8 +46,8 @@ Below you will now find case-studies grouped by lender. **There are currently no
 ## Barclays
 
 * Adam talked to Barclays in mid August 2022 and they said they haven’t updated/changed any policies lately. They need remedial works completing and then a new EWS1 doing before they will consider lending. However Barclays did allow Adam to change to a buy-to-let mortgage, on the basis of no additional borrowing / equity release and having to pay various extra fees. His building is covered by a developer pledge, although Barclays have never asked for proof of this. Work has not started on his building.
-
 * 'S' called Barclays on 16 February 2023 and was informed for her building (under 11m) that Barclays would need an EWS1 form.
+* A couple sought to remortgage (new product) a flat covered by a developer pledge with Barclays in Feb 2023. Despite producing the developer’s pledge letter stating necessary works would be covered, the application was declined and returned a zero valuation. The developer now states that their PAS 9980 rates the building at a B1, so no works are required, but this is being challenged by the building [freeholder?] based on a prior assessment, so no EWS1 has been issued. In the meantime, the applicants produced a copy of the Leaseholder Deed of Certificate to Barclays, but the bank continues to insist on the signed Landlord certificate also being issued, contrary to the UKF press release. The freeholder claims to have no responsibility for producing the Landlord Certificate, leaving the couple in a catch 22, unable to provide an EWS1, a letter stating the plan for the remedial works or a landlord certificate.
 
 ## Nationwide
 
@@ -62,6 +62,7 @@ Below you will now find case-studies grouped by lender. **There are currently no
 
 * Lee (writing in March 2023) needed to move, but couldn't sell, so did consent to let on his flat through Halifax. His fixed-rate mortgage has now come to an end but Halifax won't agree a new fix while it's on consent to let (but he also cannot sell it). Due to personal circumstances he can't move back there. So it's now on the 'standard variable' for the last two years.
 * John has no EWS1 form, but building is being remediated by freeholder, expected completion summer 2024. As of March 2023 still asking for EWS1 forms though so cannot mortgage with them.
+* I am currently with Halifax. Tried to remortgage but they wouldn't convert to buy to let starting they don't do that. B2 rating can't take out a new mortgage either. So the only option they gave me was to extend the number of years I was borrowing for to make it affordable otherwise I couldn't afford the mortgage as interest rates went from 1.7% to 5%
 
 ## HSBC
 
@@ -76,6 +77,7 @@ Below you will now find case-studies grouped by lender. **There are currently no
 ## Natwest
 
 * Lilli wrote to Natwest in August 2022, and they didn’t confirm anything either way. They said “The bank has no contractual relationship with yourself and no responsibility for any material loss you may or may not suffer – be it financial or trouble & strife. I am aware there is a situation in the UK affecting the cladding on possibly thousands of blocks of flats meaning, many people are not in a position to sell their flats and the bank is no way responsible for the blight on their properties.”. How nice.
+* I tried to get a new buy to let mortgage from NatWest in October 2022. Provided them with the EWS1 rating which was B2. Also provided them with proof that building has got confirmation regarding funding and with start and end date. They still refused to give a mortgage stating they don't provide mortgages to buildings with a B2 rating.
 
 ## Santander
 
