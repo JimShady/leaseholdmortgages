@@ -46,12 +46,13 @@ Below you will now find case-studies grouped by lender. **There are currently no
 ## Barclays
 
 * Adam talked to Barclays in mid August 2022 and they said they haven’t updated/changed any policies lately. They need remedial works completing and then a new EWS1 doing before they will consider lending. However Barclays did allow Adam to change to a buy-to-let mortgage, on the basis of no additional borrowing / equity release and having to pay various extra fees. His building is covered by a developer pledge, although Barclays have never asked for proof of this. Work has not started on his building.
-* 'S' called Barclays on 16 February 2023 and was informed for her building (under 11m) that Barclays would need an EWS1 form.
+* Jana called Barclays on 16 February 2023 and was informed for her building (under 11m) that Barclays would need an EWS1 form.
 * A couple sought to remortgage (new product) a flat covered by a developer pledge with Barclays in Feb 2023. Despite producing the developer’s pledge letter stating necessary works would be covered, the application was declined and returned a zero valuation. The developer now states that their PAS 9980 rates the building at a B1, so no works are required, but this is being challenged by the building [freeholder?] based on a prior assessment, so no EWS1 has been issued. In the meantime, the applicants produced a copy of the Leaseholder Deed of Certificate to Barclays, but the bank continues to insist on the signed Landlord certificate also being issued, contrary to the UKF press release. The freeholder claims to have no responsibility for producing the Landlord Certificate, leaving the couple in a catch 22, unable to provide an EWS1, a letter stating the plan for the remedial works or a landlord certificate.
 
 ## Nationwide
 
 * On October 2022 David had confirmation from his freeholder that remediation will start in 14 months, and end 8 months later, and that he will not be liable for any costs. Nationwide however refused his buyer a mortgage.
+* * Jana called Nationwide on 16 February 2023 and was informed for her building (under 11m) that Nationwide would need an EWS1 form.
 
 ## The Mortgage Works
 
