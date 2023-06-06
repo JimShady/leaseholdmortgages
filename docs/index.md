@@ -54,6 +54,7 @@ Below you will now find case-studies grouped by lender. **There are currently no
 
 ## Nationwide
 
+* In June 2023 a contributor provided us with [this list of buildings](https://www.leaseholdmortgages.info/new-build-closed-sites.pdf) Nationwide have black-listed for mortgages
 * On October 2022 David had confirmation from his freeholder that remediation will start in 14 months, and end 8 months later, and that he will not be liable for any costs. Nationwide however refused his buyer a mortgage.
 * Jana called Nationwide on 16 February 2023 and was informed for her building (under 11m) that Nationwide would need an EWS1 form.
 * I own a 1 bed flat in a 3 storey block (under 11m). I had sold my flat October 2022 but was blocked by nationwide requesting an EWS1. Housing association refusing to provide one as not a requirement. This led to me losing the sale. The 3rd floor has cladding on, which we believe from building reports to be Zinc seamed and non combustible. At the time of the survey there was a ‘simultaneous evacuation’ strategy in place which has been changed to ‘stay put’ due to improvement in compartmentation. Also the waking watch should be no longer required. I am stuck as to whether I should remarket for sale and risk more disappointment aa lenders are very unclear if the new FRA is acceptable.
