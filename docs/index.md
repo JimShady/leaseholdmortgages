@@ -54,7 +54,7 @@ Below you will now find case-studies grouped by lender. **There are currently no
 
 ## Nationwide
 
-* In June 2023 a contributor provided us with [this list of buildings](https://www.leaseholdmortgages.info/new-build-closed-sites.pdf) Nationwide have black-listed for mortgages
+* In June 2023 a contributor provided us with [this list of buildings](https://www.leaseholdmortgages.info/new-build-closed-sites.pdf) Nationwide and The Mortgage Works have black-listed for mortgages
 * On October 2022 David had confirmation from his freeholder that remediation will start in 14 months, and end 8 months later, and that he will not be liable for any costs. Nationwide however refused his buyer a mortgage.
 * Jana called Nationwide on 16 February 2023 and was informed for her building (under 11m) that Nationwide would need an EWS1 form.
 * I own a 1 bed flat in a 3 storey block (under 11m). I had sold my flat October 2022 but was blocked by nationwide requesting an EWS1. Housing association refusing to provide one as not a requirement. This led to me losing the sale. The 3rd floor has cladding on, which we believe from building reports to be Zinc seamed and non combustible. At the time of the survey there was a ‘simultaneous evacuation’ strategy in place which has been changed to ‘stay put’ due to improvement in compartmentation. Also the waking watch should be no longer required. I am stuck as to whether I should remarket for sale and risk more disappointment aa lenders are very unclear if the new FRA is acceptable.
@@ -62,6 +62,7 @@ Below you will now find case-studies grouped by lender. **There are currently no
 
 ## The Mortgage Works
 
+* In June 2023 a contributor provided us with [this list of buildings](https://www.leaseholdmortgages.info/new-build-closed-sites.pdf) Nationwide and The Mortgage Works have black-listed for mortgages
 * As of March 2023 they are still insisting on an EWS1 forms, regardless of freeholder or leaseholder certificates and other documents.
 * As of March 2023: Jess applied for a mortgage extension with mortgage works (Nationwide) last year and were refused as we had a failed EWS1 form. We needed the mortgage extension because works are not starting and we can’t sell and at the end of the mortgage term we will have to pay up or lose the flat. We had always intended to sell the property before term end but now we are stuck. We asked them again this year but they want to know when works will start and finish and a new EWS1 form. We cannot give them this as our freeholder is selling up and we have no clue if and when works will start. We so know an application has gone into the BSF but can’t progress until the managing agent supplies more info.
 
