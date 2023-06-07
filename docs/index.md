@@ -18,7 +18,7 @@ The mortgage lending criteria of banks and building societies on affected proper
 
 You can find out more about the wider situation via the [End Our Cladding Scandal](https://endourcladdingscandal.org) campaign website and their [Twitter account](https://twitter.com/EOCS_Official). 
 
-Below you will now find case-studies grouped by lender. **There are currently no case studies from 2023 onwards, when lenders should be more helpful, please send them in if you have one**.
+Below you will now find case-studies grouped by lender.
 
 ## Statement from Lenders at 20 December 2022:
 
