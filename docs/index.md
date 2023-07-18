@@ -2,7 +2,7 @@ _Crowd-sourcing lender attitudes to mortgages on leasehold properties with build
 
 --------------------------------------------------
 
-Quicklinks: [Barclays](https://jimshady.github.io/leaseholdmortgages/#barclays) / [Nationwide](https://jimshady.github.io/leaseholdmortgages/#nationwide) / [The Mortgage Works](https://jimshady.github.io/leaseholdmortgages/#themortgageworks) / [Halifax](https://jimshady.github.io/leaseholdmortgages/#halifax) / [HSBC](https://jimshady.github.io/leaseholdmortgages/#hsbc) / [Lloyds](https://jimshady.github.io/leaseholdmortgages/#lloyds) / [Natwest](https://jimshady.github.io/leaseholdmortgages/#natwest) / [Santander](https://jimshady.github.io/leaseholdmortgages/#santander) / [Skipton](https://jimshady.github.io/leaseholdmortgages/#skipton) / [TSB](https://jimshady.github.io/leaseholdmortgages/#tsb)
+Quicklinks: [Barclays](#barclays) / [Nationwide](https://jimshady.github.io/leaseholdmortgages/#nationwide) / [The Mortgage Works](https://jimshady.github.io/leaseholdmortgages/#themortgageworks) / [Halifax](https://jimshady.github.io/leaseholdmortgages/#halifax) / [HSBC](https://jimshady.github.io/leaseholdmortgages/#hsbc) / [Lloyds](https://jimshady.github.io/leaseholdmortgages/#lloyds) / [Natwest](https://jimshady.github.io/leaseholdmortgages/#natwest) / [Santander](https://jimshady.github.io/leaseholdmortgages/#santander) / [Skipton](https://jimshady.github.io/leaseholdmortgages/#skipton) / [TSB](https://jimshady.github.io/leaseholdmortgages/#tsb)
 
 The building safety scandal has blighted the lives of tens of thousands of people’s lives in the UK over the last few years, particularly since 2019 when the Royal Institute of Chartered Surveyors (RICS) introduced the controversial EWS1 form.
 
@@ -10,17 +10,13 @@ The mortgage lending criteria of banks and building societies on affected proper
 
 > This website (created by me, James, a fellow leaseholder currently stuck in this mess!) attempts to shine a light on these criteria by crowd-sourcing case studies of successful and unsuccesful mortgage applications.
 
- The content may also be used in meetings between the EOCS team and the [Department for Levelling Up, Housing and Communities](https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities) as examples of lenders not fulfilling their pledges and promises. Please help populate it with your own story! You can contribute in a number of ways (and give as little or as much information as you like):
+ The content may also be used in meetings between the EOCS team and the [Department for Levelling Up, Housing and Communities](https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities) as examples of lenders not fulfilling their pledges and promises. Please help populate it with your own story! You can contribute by completing this form (and giving as little or as much information as you like):
 
-1. Fill in [this form](https://forms.gle/UWdjKmsTjpqr9f5r9).
-2. Send your info to me via [Twitter](https://twitter.com/TheRealJimShady).
-3. Use GitHub to edit the page and submit a pull request: [GitHub repository](https://github.com/JimShady/leaseholdmortgages)
+1. [Submission form](https://forms.gle/UWdjKmsTjpqr9f5r9)
 
 You can find out more about the wider situation via the [End Our Cladding Scandal](https://endourcladdingscandal.org) campaign website and their [Twitter account](https://twitter.com/EOCS_Official). 
 
-Below you will now find case-studies grouped by lender.
-
-## Statement from Lenders at 20 December 2022:
+## Background: Statement from lenders on 20 December 2022:
 
 > "[...] From Monday 9 January 2023, Lenders will be able to consider mortgage applications on properties in buildings in England of 11m and over in height.  
 > Lenders will need evidence that buildings will be self-remediated by developers or covered by a recognised government scheme* **or by leaseholder 
@@ -42,6 +38,7 @@ Below you will now find case-studies grouped by lender.
 
 ----
 
+Below you will now find case-studies grouped by lender.
 
 ## Barclays
 
